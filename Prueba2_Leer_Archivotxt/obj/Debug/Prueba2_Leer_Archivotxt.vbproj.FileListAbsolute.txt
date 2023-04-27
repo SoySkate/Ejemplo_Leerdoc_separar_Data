@@ -1,0 +1,12 @@
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\bin\Debug\Prueba2_Leer_Archivotxt.exe.config
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\bin\Debug\Prueba2_Leer_Archivotxt.exe
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\bin\Debug\Prueba2_Leer_Archivotxt.pdb
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\bin\Debug\Prueba2_Leer_Archivotxt.xml
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.vbproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.Form1.resources
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.Resources.resources
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.vbproj.GenerateResource.cache
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.vbproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.exe
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.xml
+C:\Users\formacio3\source\repos\Prueba2_Leer_Archivotxt\Prueba2_Leer_Archivotxt\obj\Debug\Prueba2_Leer_Archivotxt.pdb
